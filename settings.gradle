@@ -1,0 +1,3 @@
+include ':TosterLibrary'
+include ':app'
+rootProject.name = "Lib-test"
